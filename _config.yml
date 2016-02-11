@@ -1,0 +1,28 @@
+name: Pilltracker1
+favicon: null
+layout_spectrum: 0.8797982796095312
+typography_spectrum: 0.704212031327188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2449215156957507
+  lightness: 0.5980134999845177
+  saturation: 0.4538955567404628
+  rhythmicContrast: 0.061056511010974646
+purpose: []
