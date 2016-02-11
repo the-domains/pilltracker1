@@ -1,7 +1,7 @@
 name: Pilltracker1
 favicon: null
-layout_spectrum: 0.8797982796095312
-typography_spectrum: 0.704212031327188
+layout_spectrum: 0.2425
+typography_spectrum: 0.50453
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2449215156957507
-  lightness: 0.5980134999845177
-  saturation: 0.4538955567404628
-  rhythmicContrast: 0.061056511010974646
+    - '#72ac54'
+    - '#eeaa13'
+    - '#ff00ff'
+    - '#000000'
+    - '#0000ff'
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
